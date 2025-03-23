@@ -8,6 +8,10 @@ Clara is your AI-powered security partner, designed to make finding vulnerabilit
 ## Our Goal
 Our goal is to find a unique approach to solve the challenges of software vulnerability detection. Traditional methods often fall short, struggling with complex code and evolving threats. We aim to leverage the power of Large Language Models (LLMs) to create a system that can identify vulnerabilities that are typically missed by conventional tools.
 
+## Checkout our model and dataset on huggingface
+- [clara-v0.1](https://huggingface.co/ussooraj/clara-v0.1-4bit-gguf)
+- [PrimeVul](https://huggingface.co/datasets/ussooraj/PrimeVul) modified specifically for LLM finetuning 
+
 ## Key Features:
 * **Privacy-Preserving Operation**: The entire system runs locally, ensuring your code and data never leave your machine. No external servers or cloud services are involved.
 
