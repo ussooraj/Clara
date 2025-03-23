@@ -95,5 +95,23 @@ it should give an output displaying the name that youre given to your model
 you could exit by `Ctrl+D` or `/bye`
 
 ## To start WebUI
+
 - **Clone the repository**: `https://github.com/ussooraj/Clara.git`
-- **run index.html**: just open any web browser specifing the path of index.html file `firefox index.html`
+- **Run index.html**: just open any web browser specifing the path of index.html file `firefox index.html`
+
+## Acknowledgements
+
+This project builds upon several important contributions to the field.
+
+We used [Ollama](https://github.com/ollama/ollama) for model deployment, benefiting from its efficient CPU and GPU inference capabilities.
+
+Our Large Language Model is based on [LLAMA 3.1](https://huggingface.co/meta-llama/Llama-3.1-8B), and its vulnerability detection capabilities were enhanced through fine-tuning with the [PrimeVul](https://github.com/DLVulDet/PrimeVul) dataset.
+
+We are grateful for the availability of these resources.
+
+
+## License
+
+Clara is an open source software licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+[license]: ./LICENSE
