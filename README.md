@@ -100,7 +100,7 @@ you could exit by `Ctrl+D` or `/bye`
 
 ## To start WebUI
 
-- **Clone the repository**: `https://github.com/ussooraj/Clara.git`
+- **Clone the repository**: `git clone https://github.com/ussooraj/Clara.git`
 - **Run index.html**: just open any web browser specifing the path of index.html file `firefox index.html`
 
 ## Acknowledgements
