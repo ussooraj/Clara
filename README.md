@@ -1,6 +1,6 @@
 # Clara : Cybersecurity based LLM for Anomaly and Risk Assessor  
 
-[<img src="./resources/images/clarav4.png" alt="Clara Logo" width="100%" height="120%">]((https://huggingface.co/ussooraj/clara-v0.1-4bit-gguf))
+[<img src="./resources/images/clarav4.png" alt="Clara Logo" width="100%" height="120%">](https://huggingface.co/ussooraj/clara-v0.1-4bit-gguf)
 
 ## What is Clara
 Clara is your AI-powered security partner, designed to make finding vulnerabilities in your code easier and faster. It's a Large Language Model (LLM) that we've carefully post-trained, using a refined version of the PrimeVul dataset, to become an expert in spotting potential security weaknesses. This specialized training means Clara can understand your code in a way that traditional tools often can't, helping you build more secure software.
