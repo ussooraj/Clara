@@ -111,6 +111,9 @@ We used [Ollama](https://github.com/ollama/ollama) for model deployment, benefit
 
 Our Large Language Model is based on [LLAMA 3.1](https://huggingface.co/meta-llama/Llama-3.1-8B), and its vulnerability detection capabilities were enhanced through fine-tuning with the [PrimeVul](https://github.com/DLVulDet/PrimeVul) dataset.
 
+And last but not least,
+We express our deep appreciation to [Rohith](https://github.com/Rohith04MVK/) for making this project possible. His contributions were fundamental to this project.
+
 We are grateful for the availability of these resources.
 
 
